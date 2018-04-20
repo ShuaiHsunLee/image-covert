@@ -16,14 +16,14 @@ Go to directory you want to download the file. ```cd "path"```
 Download project on the current directory. ```git clone https://github.com/ShuaiHsunLee/image-covert.git```
 
 ## Usage
-####Option 1:
+#### Option 1:
 Put your png file into directory called "png."
 <br>
 Run ```make update```
 <br>
 ```make update``` provides only new file with new filename update.
 
-####Option 2:
+#### Option 2:
 Put your png file into directory called "png."
 <br>
 Run ```make updateall```
